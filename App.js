@@ -11,7 +11,6 @@ const App1 = () => {
   return (
     <NavigationContainer>
       <AppNavigator />
-
     </NavigationContainer>
 
   );

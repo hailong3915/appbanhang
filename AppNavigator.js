@@ -5,6 +5,7 @@ import Category from "./screens/Category";
 
 const AppNavigator = createNativeStackNavigator();
 
+
 const App = ({ navigation }) => {
   return (
     <AppNavigator.Navigator>
@@ -15,3 +16,6 @@ const App = ({ navigation }) => {
 }
 
 export default App;
+
+
+
